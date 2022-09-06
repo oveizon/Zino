@@ -2,7 +2,7 @@
 A basic shooter game made with python's Pygame library.
 
 
-##Installation
+<h3>Installation<h3>
 <hr>
 
 Create a folder: mkdir folder_name
@@ -17,10 +17,10 @@ Activate virtual environment: For Mac (source venv/bin/activate), Windows (.\ven
 
 Install packages: pip install -r requirements.txt
 
-Run game: In your terminal, change directory into the main zino folder containing the __pycache__ folder, and type in, python/python3 zino.py on the terminal for the game to start.
+Run game: In your terminal, change directory into the main zino folder, and type in, python/python3 zino.py on the terminal for the game to start.
 
 
-##Instructions
+<h3>Instructions<h3>
 <hr>
 
 The goal is to eliminate all enemy characters before they can pass by you.
