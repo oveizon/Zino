@@ -13,7 +13,7 @@ Change directory to the folder: cd folder_name
 
 Clone main branch to folder: git clone --branch main https://github.com/oveizon/Zino.git.
 
-Create virtual environment: python3 -m venv venv (or your preferred virtual environment)
+Create virtual environment: python -m venv venv (or your preferred virtual environment)
 
 Activate virtual environment: For Mac (source venv/bin/activate), Windows (.\venv\Scripts\activate)
 
