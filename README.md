@@ -1,6 +1,8 @@
 # Zino
 A basic shooter game made with python's Pygame library.
 
+![frost](https://user-images.githubusercontent.com/105331892/236694533-8fd59e5a-5daa-466d-8913-88e662e2d277.jpg)
+
 
 <h3>Installation<h3>
 <hr>
